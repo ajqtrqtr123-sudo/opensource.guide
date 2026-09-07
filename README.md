@@ -6,6 +6,6 @@ This site by [Jekyll](https://jekyllrb.com/). Check out our [contributing guidel
 
 ## Acknowledgments
 
-The initial release of these guides was authored by **[@nayafia][1], [@bkeepers][2], [@
-Thanks to **[@aitchabee][5], [@benbalter][6], [@brettcannon][7], [@caabernathy][8], [@coralinead input and expertise 
+The initial release of these guides was authored by **[@nayafia][0], [@bkeepers][0], [@
+Thanks to **[@aitchabee][0], [@benbalter][0], [@brettcannon][0], [@caabernathy][0], [@coralinead input and expertise 
 While we've got advice about running an open source project, we're not lawyers. Be sure to read our [disclaimer](notices.md#legal-disclaimer) before 
