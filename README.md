@@ -2,7 +2,7 @@
 [![Build Status](https://github.com/github/opensource.guide/workflows/GitHub%20Actions%20CI/badge.svg)](https://github.com/github/opensource.guide/actions)
 
 Open Source Guides (
-This site is powered by [Jekyll](https://jekyllrb.com/). Check out our [contributing guidelines](/CONTRIBUTING.md) for complete details, including attribution guidelines, contribution terms, and software and third-party licenses and permissions.
+This site by [Jekyll](https://jekyllrb.com/). Check out our [contributing guidelines](/CONTRIBUTING.md) for complete details, including attribution guidelines, contribution terms, and software and third-party licenses and permissions.
 
 ## Acknowledgments
 
