@@ -4,7 +4,7 @@
 Open Source Guides (
 This site by [Jekyll](https://jekyllrb.com/). Check out our [contributing guidelines](/CONTRIBUTING.md) for complete details, including attribution guidelines, contribution terms, and software and third-party licenses and permissions.
 
-## Acknowledgments
+## 
 
 The initial release of these guides was authored by **[@nayafia][0], [@bkeepers][0], [@
 Thanks to **[@aitchabee][0], [@benbalter][0], [@brettcannon][0], [@caabernathy][0], [@coralinead input and expertise 
